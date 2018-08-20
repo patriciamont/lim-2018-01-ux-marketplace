@@ -63,5 +63,5 @@ __OBJETIVO DEL NEGOCIO:
 11.¿Cuáles son las páginas de compra online que te gustan o que utilizas?
 
 ## Proto-Persona
-<http://thumbs.subefotos.com/5c0776993907467217e84802b66ed0fao.jpg>
+![](http://thumbs.subefotos.com/5c0776993907467217e84802b66ed0fao.jpg)
 
