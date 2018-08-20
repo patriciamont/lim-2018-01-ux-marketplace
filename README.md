@@ -64,3 +64,7 @@ __OBJETIVO DEL NEGOCIO:
 
 ## Proto-Persona
 ![protouser](https://user-images.githubusercontent.com/38932099/44317574-ac6eeb00-a3f7-11e8-8ced-67c489205633.jpg)
+
+## Customer Journey Map
+![mapuser](https://user-images.githubusercontent.com/38932099/44319835-ee9e2980-a403-11e8-8093-1e06ddbf4e5c.png)
+
