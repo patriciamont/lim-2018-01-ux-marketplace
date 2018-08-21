@@ -62,7 +62,7 @@ OBJETIVO DEL NEGOCIO:
 11. ¿Cuáles son las páginas de compra online que te gustan o que utilizas?
 
 ## Proto-Persona
-![protouser](https://user-images.githubusercontent.com/38932099/44317574-ac6eeb00-a3f7-11e8-8ced-67c489205633.jpg)
+![protopers-01](https://user-images.githubusercontent.com/38932099/44377579-14d6ce80-a4c3-11e8-81aa-677774b56586.jpg)
 
 ## Customer Journey Map
 ![mapuser](https://user-images.githubusercontent.com/38932099/44319835-ee9e2980-a403-11e8-8093-1e06ddbf4e5c.png)
