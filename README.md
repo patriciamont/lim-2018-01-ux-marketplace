@@ -58,15 +58,11 @@ OBJETIVO DEL NEGOCIO:
 * Los compradores no se sienten fidelizados porque después de las compras que hicieron no recibieron más comunicación acerca de nuevos productos que habían llegado a tienda.
 * Los compradores no saben de la existencia de los talleres, por este motivo no pueden aprovecharlos para saber 
 
-<<<<<<< HEAD
-## ENTREVISTA PARA EL CLIENTE
-=======
 ## 4. Presupuesto
 
 
 
 ### 5. Entrevistas
->>>>>>> 7372d2a14d8683efd8395eb28d8a79950a68ee82
 
 1. ¿Cómo nace la idea de “La Casa de la Tata”?
 2. ¿Qué sientes qué es lo que más valoran tus clientes ?
@@ -80,30 +76,16 @@ OBJETIVO DEL NEGOCIO:
 10. ¿Compras por internet? ¿porqué?
 11. ¿Cuáles son las páginas de compra online que te gustan o que utilizas?
 
-<<<<<<< HEAD
-## ENTREVISTA PARA LOS USUARIOS
-
-## Proto-Persona
-![protopers-01](https://user-images.githubusercontent.com/38932099/44377579-14d6ce80-a4c3-11e8-81aa-677774b56586.jpg)
-
-## UserPesona
-![carlaramirezuserpersona-01](https://user-images.githubusercontent.com/38932099/44949469-871aad80-adf7-11e8-989e-1783bccd532c.png)
-
-
-## Customer Journey Map
-![mapuser](https://user-images.githubusercontent.com/38932099/44319835-ee9e2980-a403-11e8-8093-1e06ddbf4e5c.png)
-
-## Prototipo de Baja Fidelidad
-![prototipobajafidelidad](https://user-images.githubusercontent.com/38932099/44949623-052c8380-adfb-11e8-913a-99f247ba426a.jpg)
-![prototipobajafidelidad2](https://user-images.githubusercontent.com/38932099/44949651-576da480-adfb-11e8-8dd2-ef8ee96840d2.jpg)
-
-=======
 
 ## 6. Definición del público objetivo
 
-### 6.1 User Persona
+## 6.1 Proto-Persona
+![protopers-01](https://user-images.githubusercontent.com/38932099/44377579-14d6ce80-a4c3-11e8-81aa-677774b56586.jpg)
 
-### 6.2 Customer Journey Map
+### 6.2 User Persona
+![carlaramirezuserpersona-01](https://user-images.githubusercontent.com/38932099/44949469-871aad80-adf7-11e8-989e-1783bccd532c.png)
+
+### 6.3 Customer Journey Map
 ![mapuser](https://user-images.githubusercontent.com/38932099/44319835-ee9e2980-a403-11e8-8093-1e06ddbf4e5c.png)
 
 ## 7. Solución
@@ -154,7 +136,9 @@ OBJETIVO DEL NEGOCIO:
 ## 8. Prototyping
 
 ### 8.1 Sketch
+![prototipobajafidelidad](https://user-images.githubusercontent.com/38932099/44949623-052c8380-adfb-11e8-913a-99f247ba426a.jpg)
+![prototipobajafidelidad2](https://user-images.githubusercontent.com/38932099/44949651-576da480-adfb-11e8-8dd2-ef8ee96840d2.jpg)
+
 ### 8.2 Prototipo de Alta Fidelidad
 
 ## 9. Conclusiones
->>>>>>> 7372d2a14d8683efd8395eb28d8a79950a68ee82
