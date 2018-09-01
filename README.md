@@ -46,9 +46,9 @@
 
 <p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-marketplace/blob/master/img/babyshower.png" alt="babyshower" border="0"></p>
 
-OBJETIVO DEL NEGOCIO:
+_Objetivo del negocio_
 
-***"Veo una casa con toda esa energía linda que se siente cuando uno es comunidad, cuando todos somos un uno. Una casa con espacio para educación, para talleres, para jugar, para las marcas, los servicios y para ayuda social. Una casa de crianza natural y con apego."***- Nadiana Altuve, dueña de LCT.-
+*"Veo una casa con toda esa energía linda que se siente cuando uno es comunidad, cuando todos somos un uno. Una casa con espacio para educación, para talleres, para jugar, para las marcas, los servicios y para ayuda social. Una casa de crianza natural y con apego."* - Nadiana Altuve, dueña de LCT.-
 
 ## 3. Problemas identificados
 
@@ -60,22 +60,31 @@ OBJETIVO DEL NEGOCIO:
 
 ## 4. Presupuesto
 
+Nosotras hemos trabajado en base a un presupuesto de 290 puntos, para ver el sustento y detalle, hacer clic [aquí](https://drive.google.com/open?id=1zvhqwH6ELpVJev-XwDy7Ras_3yiwFq6h) 
 
 
-### 5. Entrevistas
+## 5. Entrevistas
 
-1. ¿Cómo nace la idea de “La Casa de la Tata”?
-2. ¿Qué sientes qué es lo que más valoran tus clientes ?
-3. ¿Cómo definirías a tus clientes? mamas? papas? con hijos de qué edades?
-4. ¿Cuál es ese valor agregado o elemento diferenciador que tus clientes pueden encontrar en “La Casa de la Tata”?
-5. ¿A quiénes identifican como tu competencia ?
-6. ¿Cuales son las temporadas en las vendes más?
-7. ¿Si podrías cambiar/mejorar algo, que sería?
-8. ¿Qué es lo que no tienes qué te gustaría implementar en tu empresa?
-9. ¿Cuáles son tus metas a largo plazo?
-10. ¿Compras por internet? ¿porqué?
-11. ¿Cuáles son las páginas de compra online que te gustan o que utilizas?
+Puede consultar la guía completa de preguntas elaboradas para clientes y usuarixs [aquí](https://drive.google.com/open?id=1PcQ6OgtuyuMDC9kaQ5DPqqSsQZj_fIId65wKZzaYy3o).
 
+### 5.1 Conclusiones de entrevista con el cliente
+
+Fecha: 20 de agosto del 2018
+Hora: 5:30pm
+
+En las [entrevistas con el cliente](https://drive.google.com/open?id=1WsnzidbYqRuE4lZwo_HiFKRo-Dqfj3Xz), se pudo rescatar la siguiente información:
+
+
+### 5.2 Conclusiones de entrevista con usuarias
+
+Puede ver el detalle de las entrevistas a usuarias [aquí](https://drive.google.com/open?id=1kBaPQoeEeya7PHeCfgzH2fKLFECnfedDLw8abPKW-M8)
+
+Entre las conclusiones, podemos entender que:
+
+* Las usuarias valoran la exclusividad de los productos.
+* Aprecian el tiempo de entrega del producto, es rápido pero podría mejorar en algunos casos.
+* Les parece muy importante los talleres porque sobre todo son gratuitos.
+* Se han sentido abandonadas porque no recibieron más comunicación luego de realizar sus compras.
 
 ## 6. Definición del público objetivo
 
@@ -85,6 +94,8 @@ OBJETIVO DEL NEGOCIO:
 ![mapuser](https://user-images.githubusercontent.com/38932099/44319835-ee9e2980-a403-11e8-8093-1e06ddbf4e5c.png)
 
 ## 7. Solución
+
+*Luego de haber entendido la problemática del negocio y las usuarias a través de las entrevistas y a través del benchmark, lo que planteamos es transformar digitalmente su tienda, teniendo presente los objetivos del cliente: formar una comunidad de madres que estén informadas y capacitadas para llevar acabo una crianza con apego. Nosotras hemos optado por mantener los colores de su blog inicial y de su logo, además de agregar un menú con las diferentes categorías de productos que tienen, añadir una opción de favoritos, el registro para que el cliente tenga una data de todos sus usuarios y así realizar sus actividades en sus talleres y las opciones de pago: efectivo o tarjeta.*
 
 ### 7.1 Definición del producto
 
@@ -118,8 +129,6 @@ OBJETIVO DEL NEGOCIO:
 
 *La tienda onlinde de LCT organiza la información y hace que se puede encontrar el producto de una manera más rápida teniendo la posibilidad de comparar precios y características con otros productos similares, si el usuario vuelve a comprar pues tendrá lo opción de ver sus productos favoritos guardados registrándose. Por otro lado, podrá encontrar información de los talleres dependiendo del producto que elija.*
 
-
-
 ###  7.2 Distribución y entrega de contenido
 
 ***7.2.1 Árbol de contenido***
@@ -128,10 +137,12 @@ OBJETIVO DEL NEGOCIO:
 
 <p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-marketplace/blob/master/img/árbol-de-contenido.png" alt="árbol-de-contenido" border="0"></p>
 
-
-## 8. Prototyping
+## 8. Prototyping y Testing
 
 ### 8.1 Sketch
+
 ### 8.2 Prototipo de Alta Fidelidad
+
+### 8.3 Prototipo Interactivo
 
 ## 9. Conclusiones
