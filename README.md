@@ -67,3 +67,42 @@ OBJETIVO DEL NEGOCIO:
 ## Customer Journey Map
 ![mapuser](https://user-images.githubusercontent.com/38932099/44319835-ee9e2980-a403-11e8-8093-1e06ddbf4e5c.png)
 
+## DEFINICIÓN DEL PRODUCTO
+
+### Principales usuarios de producto
+
+*Son madres que buscan productos para sus hijxs y para ellas mismas, productos exclusivos basados en la filosofía de crianza con apego, en su mayoría productos naturales u orgánicos.*
+
+### Objetivos del negocio en relación con el producto
+
+* Fomentar la crianza con apego a través de sus productos, adquiriéndolos desde su web.
+* Brindar información detallada respecto al uso de sus productos a través de mensajes en línea.
+* Formar una comunidad de madres que puedan asistir con sus hijxs a comprar y a participar en las charlas.
+* Poder expandir su mercado hacia puntos más lejanos de la ciudad.
+
+### Objetivos de los usuarios en relación con el producto
+
+* Ahorrar tiempo y dinero yendo hasta la tienda.
+* Tener información más completa de los productos disponibles.
+* Revisar mejor la oferta disponible de todos los productos a través de categorías.
+* Poder personalizar sus compras, guardando información de los productos que siempre compra.
+
+### Propuesta de valor del producto
+
+*Desde punto de vista del negocio, el producto añade valor minimizando gastos de recursos como transporte, tiempo entre otros a través de una plataforma de fácil acceso, evitando problemas de pérdida de vouchers, falta de coodinación en línea entre otros.*
+
+### Contenidos que el usuarix quiere ver, información que buscaría para convencerse de comprar, confiar en la empresa que lo ofrece, encontrar lo que busca y comprarlo
+
+*Los clientes de LCT han manifestado que quisieran encontrar información detallada y ordenada debido a la cantidad de marcas y tipos de productos que maneja la tienda, de esta manera encontrarían fácilmente lo que están buscando además de ver otras opciones parecidas y tener una gama de posibilidades al momento de comprar.*
+
+### Distribución y entrega de contenido
+
+ÁRBOL DE CONTENIDO
+
+*Para organizar la información se trabajó a través de un árbol de contenido que se mostrará en el menú de la aplicación web así como en un filtro desplegable en la tienda online.*
+
+<p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-marketplace/blob/master/img/árbol-de-contenido.png" alt="árbol-de-contenido" border="0"></p>
+
+### El producto les resuelve sus problemas
+
+*La tienda onlinde de LCT organiza la información y hace que se puede encontrar el producto de una manera más rápida teniendo la posibilidad de comparar precios y características con otros productos similares, si el usuario vuelve a comprar pues tendrá lo opción de ver sus productos favoritos guardados registrándose. Por otro lado, podrá encontrar información de los talleres dependiendo del producto que elija.*
