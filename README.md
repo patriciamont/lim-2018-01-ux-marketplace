@@ -47,7 +47,7 @@ OBJETIVO DEL NEGOCIO:
 ***"Veo una casa con toda esa energía linda que se siente cuando uno es comunidad, cuando todos somos un uno. Una casa con espacio para educación, para talleres, para jugar, para las marcas, los servicios y para ayuda social. Una casa de crianza natural y con apego."***
 
 
-## ENTREVISTA
+## ENTREVISTA PARA EL CLIENTE
 
 1. ¿Cómo nace la idea de “La Casa de la Tata”?
 2. ¿Qué sientes qué es lo que más valoran tus clientes ?
@@ -61,8 +61,14 @@ OBJETIVO DEL NEGOCIO:
 10. ¿Compras por internet? ¿porqué?
 11. ¿Cuáles son las páginas de compra online que te gustan o que utilizas?
 
+## ENTREVISTA PARA LOS USUARIOS
+
 ## Proto-Persona
 ![protopers-01](https://user-images.githubusercontent.com/38932099/44377579-14d6ce80-a4c3-11e8-81aa-677774b56586.jpg)
+
+## UserPesona
+![carlaramirezuserpersona-01](https://user-images.githubusercontent.com/38932099/44949469-871aad80-adf7-11e8-989e-1783bccd532c.png)
+
 
 ## Customer Journey Map
 ![mapuser](https://user-images.githubusercontent.com/38932099/44319835-ee9e2980-a403-11e8-8093-1e06ddbf4e5c.png)
