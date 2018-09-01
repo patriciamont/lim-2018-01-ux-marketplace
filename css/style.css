@@ -1,12 +1,68 @@
-.shopping-cart-1 {
-    width: 39.9px;
-    height: 35px;
-  }
-img {
+
+.latata {
     position: absolute;
-left: 40.83%;
-right: 46.39%;
-top: 37.65%;
+left: 44%;
+right: 45%;
+top: 12.65%;
 bottom: 21.18%;
 
   }
+.letra1{
+    position: absolute;
+left: 20%;
+right: 63.89%;
+top: 25%;
+bottom: 2.94%;
+
+color: #000000;
+}
+.letra2{
+    position: absolute;
+left: 38.61%;
+right: 44.17%;
+top: 25%;
+bottom: 0%;
+color: #000000;
+}
+.letra3{
+    position: absolute;
+left: 58.33%;
+right: 20%;
+top: 25%;
+bottom: 0%;
+color: #000000;
+}
+p{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 18px;
+}
+hr{
+position: absolute;
+width: 215px;
+height: 0px;
+left: 78px;
+top: 170px;
+}
+.oferta{
+position: absolute;
+width: 360px;
+height: 242px;
+left: 0px;
+top: 205px;
+}
+.talleres{
+position: absolute;
+width: 360px;
+height: 146px;
+left: 0px;
+top: 465px;
+}
+.rectangulo{
+    position: absolute;
+width: 247px;
+height: 49px;
+left: 113px;
+top: 562px;
+
+background: rgba(7, 6, 6, 0.28);
+}
