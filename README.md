@@ -73,3 +73,7 @@ OBJETIVO DEL NEGOCIO:
 ## Customer Journey Map
 ![mapuser](https://user-images.githubusercontent.com/38932099/44319835-ee9e2980-a403-11e8-8093-1e06ddbf4e5c.png)
 
+## Prototipo de Baja Fidelidad
+![prototipobajafidelidad](https://user-images.githubusercontent.com/38932099/44949623-052c8380-adfb-11e8-913a-99f247ba426a.jpg)
+![prototipobajafidelidad2](https://user-images.githubusercontent.com/38932099/44949651-576da480-adfb-11e8-8dd2-ef8ee96840d2.jpg)
+
