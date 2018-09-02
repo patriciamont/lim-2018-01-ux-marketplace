@@ -43,12 +43,8 @@ height: 0px;
 left: 78px;
 top: 170px;
 }
-.oferta{
-position: absolute;
-width: 360px;
-height: 242px;
-left: 0px;
-top: 205px;
+#carouselExampleIndicators{
+top: 130px;
 }
 .talleres{
 position: absolute;
@@ -58,11 +54,42 @@ left: 0px;
 top: 465px;
 }
 .rectangulo{
-    position: absolute;
+position: absolute;
 width: 247px;
 height: 49px;
 left: 113px;
 top: 562px;
 
 background: rgba(7, 6, 6, 0.28);
+}
+.hola{
+position: absolute;
+width: 247px;
+height: 49px;
+left: 113px;
+top: 562px;
+
+background: rgba(7, 6, 6, 0.28);
+}
+#bebesyniños{
+    position: absolute;
+width: 362px;
+height: 151px;
+left: -2px;
+top: 193px;
+
+}
+#mamas{
+    position: absolute;
+width: 362px;
+height: 135px;
+left: -2px;
+top: 385px;
+}
+#filtros{
+    position: absolute;
+width: 259px;
+height: 104px;
+left: 48px;
+top: 350px;
 }
