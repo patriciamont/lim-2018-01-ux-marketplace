@@ -1,11 +1,13 @@
-window.ocultar = () => {
-    containerInicio.style = 'display:none';
-    bebesyniños.style = 'display:block';
-    mamas.style = 'display:block'
+window.hidenStart = () => {
+    containerStart.style = 'display:none';
+    contBabiesAndChildren.style = 'display:block';
+    containerMon.style = 'display:block'
+    filters.style = 'display:none'
 }
-window.ocultar2 = () => {
-    mamas.style = 'display:none'
-    filtros.style='display:block'
+window.showStore = () => {
+    containerMon.style = 'display:none'
+    filters.style = 'display:block'
+   
 
 
 }

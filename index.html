@@ -69,7 +69,7 @@
                 <p id="home">Inicio</p>
             </div>
             <div class="col-4 letra2">
-                <p id="tienda">Tienda</p>
+                <p id="store">Tienda</p>
             </div>
             <div class="col-4 letra3">
                 <p>Eventos</p>
@@ -79,7 +79,7 @@
     </div>
     <hr color="#15E2F0" size=2>
     <div class="container">
-        <div id="containerInicio">
+        <div id="containerStart">
             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
                     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -107,8 +107,8 @@
                     <span class="sr-only">Next</span>
                 </a>
             </div>
-            <div class="containerTalleres">
-                <img src="img/taller1.png" class="talleres" alt="">
+            <div class="containerWorkshops">
+                <img src="img/taller1.png" alt="">
                 <div id="textTalleres">
                     <p>Talleres</p>
                 </div>
@@ -120,41 +120,46 @@
 
         </div>
     </div>
-    </div>
+
     <div class="container">
-        <div class="containerBebesyniños" style="display:none">
-            <img src="img/Group.png" id="bebesyniños" alt="">
+        <div class="contBabiesAndChildren" style="display:none">
+            <img src="img/Group.png" alt="">
             <div id="textBebesyniños">
                 <p>Bebés y Niños</p>
             </div>
         </div>
-        <div class="containerMamas" style="display:none">
-            <img src="img/mamamillenial.png" id="mamas" alt="">
-            <div id="textMamas">
+        <div class="containerMon" style="display:none">
+            <img src="img/mamamillenial.png" alt="">
+            <div id="textMon">
                 <p>Mamá</p>
             </div>
         </div>
 
 
 
-        <div id="filtros" style="display:none">
+        <div id="filters" style="display:none">
             <p>Ordenar por:</p>
-            <select>
+            <select class="selectpicker">
                 <option>Todos los productos</option>
                 <option>Los más vendidos</option>
                 <option>De menor a mayor precio</option>
                 <option>De mayor a menor precio</option>
             </select>
             <p>Seleccionar por:</p>
-            <select>
-                <option>Todos los productos</option>
-                <option>Accesorios</option>
-                <option>Hora del baño</option>
-                <option>Hora de dormir</option>
-                <option>Juguetes</option>
-                <option>De paseo</option>
-                <option>Linea Solar</option>
+            <select class="selectpicker">
+                <option value="0">Todos los productos</option>
+                <option value="1">Accesorios</option>
+                <option value="2">Hora del baño</option>
+                <option value="3">Hora de dormir</option>
+                <option value="4">Juguetes</option>
+                <option value="5">De paseo</option>
+                <option value="6">Linea Solar</option>
             </select>
+           
+
+
+
+
 
 
         </div>

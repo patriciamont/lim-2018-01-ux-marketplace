@@ -1,21 +1,27 @@
-const btnTienda = document.getElementById('tienda')
-const home=document.getElementById('home')
-const containerInicio = document.getElementById('containerInicio') 
-const bebesyniños= document.querySelector('.containerBebesyniños')
-const mamas=document.querySelector('.containerMamas')
-const filtros=document.getElementById('filtros')
+const btnStore = document.getElementById('store')
+const home = document.getElementById('home')
+const containerStart = document.getElementById('containerStart')
+const contBabiesAndChildren = document.querySelector('.contBabiesAndChildren')
+const containerMon = document.querySelector('.containerMon')
+const filtros = document.getElementById('filters')
 
-btnTienda.addEventListener('click', () => {
-  ocultar() 
-   /*  document.getElementById('containerInicio').style = 'display:none'; */
-})
-bebesyniños.addEventListener('click',()=>{
-ocultar2()
+
+
+/* Llamando a la función para ocultar el contenedor de Inicio */
+btnStore.addEventListener('click', () => {
+  hidenStart()
+ 
 })
 
-home.addEventListener('click', ()=>{
-  containerInicio.style = 'display:block';
-  bebesyniños.style = 'display:none';
-    mamas.style = 'display:none';
-    filtros.style='display:none';
+/* Llamando a la función para mostrar los filtros de la vista bebés y niños */
+contBabiesAndChildren.addEventListener('click', () => {
+  showStore()
+})
+
+/* Llamado para volver al inicio */
+home.addEventListener('click', () => {
+  containerStart.style = 'display:block';
+  contBabiesAndChildren.style = 'display:none';
+  containerMon.style = 'display:none';
+  filters.style = 'display:none';
 })
