@@ -86,30 +86,34 @@ Hora: 5:30pm
 
 En las [entrevistas con el cliente](https://drive.google.com/open?id=1WsnzidbYqRuE4lZwo_HiFKRo-Dqfj3Xz), se pudo rescatar la siguiente información:
 
-
-
-
-
-
-
+* Lo que más valoran es que las usuarias estén preocupadas no sólo por el producto sino en cómo utilizarlos, esta conducta no es frecuente, es por esto que necesitan impulsar sus talleres.
+* Definen a sus clientes principalmente como mamás, de vez en cuando abuelas preocupadas en la crianza de sus hijxs/nietxs desde los 6 meses a los 3 años.
+* Su valor agregado se encuentra en compartir tips o sugerencias para complementar el producto vendido y así aportar en mejorar la crianza de los niñxs.
+* Les gustaría tener un alcance mayor a mamás con hijxs de este rango de edad, enfatizar la información de interés que casi siempre se encuentra en el blog para llegar a más personas con esta filosofía.
 
 ### 6.2 Conclusiones de entrevista con usuarias
 
-Puede ver el detalle de las entrevistas a usuarias [aquí](https://drive.google.com/open?id=1kBaPQoeEeya7PHeCfgzH2fKLFECnfedDLw8abPKW-M8)
+Puede ver el detalle de las entrevistas a usuarias [aquí](https://drive.google.com/open?id=1GfE7XAosuLuIuLo324SMa30DMHs6IM5R)
 
 Entre las conclusiones, podemos entender que:
 
 * Las usuarias valoran la exclusividad de los productos.
 * Aprecian el tiempo de entrega del producto, es rápido pero podría mejorar en algunos casos.
-* Les parece muy importante los talleres porque sobre todo son gratuitos.
+* Les parece muy importante los talleres porque sobre todo son gratuitos, sin embargo no todas han asistido a uno.
 * Se han sentido abandonadas porque no recibieron más comunicación luego de realizar sus compras.
+* Valoran el hecho de economizar la experiencia de compra sin ir hasta la tienda, porque en la mayoría de veces, visitarla significa incurrir en otros gastos como pasajes, taxis, desvío de último momento (paseos pues se movilizan con sus hijxs), comida, entre otros.
 
 ## 7. Definición del público objetivo
 
 ### 7.1 Proto-Persona
+
+*Primero, realizamos un proto persona para tener una idea del comportamiento y necesidades de la usuaria:*
+
 ![protopers-01](https://user-images.githubusercontent.com/38932099/44377579-14d6ce80-a4c3-11e8-81aa-677774b56586.jpg)
 
 ### 7.2 User Persona
+
+*A raíz que iba avanzando la investigación, actualizamos y complementamos la información a través de un user persona:*
 
 ![carlaramirezuserpersona-01](https://user-images.githubusercontent.com/38932099/44949469-871aad80-adf7-11e8-989e-1783bccd532c.png)
 ### 7.3 Customer Journey Map
@@ -168,8 +172,9 @@ Entre las conclusiones, podemos entender que:
 
 *Inicialmente se realizaron sketches para maquetar nuestro market place, tomando en cuenta los objetivos del cliente como mantener la información de sus talleres y ordenar los productos disponibles. Durante el testeo con las usuarias, nos mencionaron que les gustaría mucho que haya una opción de favoritos para no tener que buscar nuevamente los productos que siempre compraban, además necesitaban tener el filtro de las categorías en el menú de la app y en la tienda, nos pidieron que pongamos menos información en la descripción del producto ya que se veía muy amontonado.*  
 
-![prototipodebajafidelidad](https://user-images.githubusercontent.com/38932099/44990554-f824a700-af56-11e8-866e-5f3eb9ec3588.jpg)
-![prototipodebajafidelidad2](https://user-images.githubusercontent.com/38932099/44990562-fce95b00-af56-11e8-8d1b-6c53de8bba13.jpg)
+<p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-marketplace/blob/master/img/prototipo1.jpg" alt="prototipo1" border="0"></p>
+
+<p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-marketplace/blob/master/img/prototipo2.jpg" alt="prototipo2" border="0"></p>
 
 
 ### 9.2 Prototipo de Alta Fidelidad
@@ -191,3 +196,7 @@ Entre las conclusiones, podemos entender que:
 [Link a prototipo interactivo](https://www.figma.com/proto/RYNA94o2vFZ9oW5ssteMTVwk/Untitled?node-id=0%3A1&scaling=scale-down)
 
 ## 10. Conclusiones
+
+Actualmente, los padres en el Perú sienten una atracción por productos novedosos para sus hijxs, en la mayoría de casos piensan que que recuperan el tiempo que lo dedican en trabajar, a comprar artículos que les permita estar más cerca de sus hijxs.
+La Casa de la Tata busca acompañar a los padres en este procesos a través de productos no ordinarios que vinculen no sólo el uso por parte del niñx, sino el acompañamiento del papá o mamá, LCT tiene la idea de brindar además un espacio en el cual puedan capacitarse en temas de interés como lactancia, primeros auxilios, etc. de forma gratuita.
+La idea de un Market Place mejorará la experiencia de compra e incrementará el tráfico de clientas que buscan comprar desde la comodidad de su hogar; además de encontrar información importante sobre los talleres, horarios, fechas, que posteriormente podrán utilizar para visitar la tienda también.
