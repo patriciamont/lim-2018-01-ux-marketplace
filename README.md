@@ -46,7 +46,7 @@
 
 <p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-marketplace/blob/master/img/babyshower.png" alt="babyshower" border="0"></p>
 
-**Objetivo del negocio**
+### 2.2 Objetivo del negocio
 
 *"Veo una casa con toda esa energía linda que se siente cuando uno es comunidad, cuando todos somos un uno. Una casa con espacio para educación, para talleres, para jugar, para las marcas, los servicios y para ayuda social. Una casa de crianza natural y con apego."* - Nadiana Altuve, dueña de LCT.-
 
@@ -69,12 +69,15 @@
 
 Nosotras hemos trabajado en base a un presupuesto de 290 puntos, para ver el sustento y detalle, hacer clic [aquí](https://drive.google.com/open?id=1zvhqwH6ELpVJev-XwDy7Ras_3yiwFq6h) 
 
+## 5. Benchmark
 
-## 5. Entrevistas
+*Realizamos una investigación de 5 tiendas símiles a LCT, el [benchmark](https://drive.google.com/open?id=1X46zYb7XeSoNi2URNvV2DzNnpRzVPyx8) nos sirvió para mapear los servicios de la competencia, identificar las buenas y malas prácticas de ellas y poder proponer un mejor producto para nuestro cliente.*
+
+## 6. Entrevistas
 
 Puede consultar la guía completa de preguntas elaboradas para clientes y usuarixs [aquí](https://drive.google.com/open?id=1PcQ6OgtuyuMDC9kaQ5DPqqSsQZj_fIId65wKZzaYy3o).
 
-### 5.1 Conclusiones de entrevista con el cliente
+### 6.1 Conclusiones de entrevista con el cliente
 
 Fecha: 20 de agosto del 2018, 
 Hora: 5:30pm
@@ -82,7 +85,7 @@ Hora: 5:30pm
 En las [entrevistas con el cliente](https://drive.google.com/open?id=1WsnzidbYqRuE4lZwo_HiFKRo-Dqfj3Xz), se pudo rescatar la siguiente información:
 
 
-### 5.2 Conclusiones de entrevista con usuarias
+### 6.2 Conclusiones de entrevista con usuarias
 
 Puede ver el detalle de las entrevistas a usuarias [aquí](https://drive.google.com/open?id=1kBaPQoeEeya7PHeCfgzH2fKLFECnfedDLw8abPKW-M8)
 
@@ -93,25 +96,25 @@ Entre las conclusiones, podemos entender que:
 * Les parece muy importante los talleres porque sobre todo son gratuitos.
 * Se han sentido abandonadas porque no recibieron más comunicación luego de realizar sus compras.
 
-## 6. Definición del público objetivo
+## 7. Definición del público objetivo
 
-### 6.1 Proto-Persona
+### 7.1 Proto-Persona
 ![protopers-01](https://user-images.githubusercontent.com/38932099/44377579-14d6ce80-a4c3-11e8-81aa-677774b56586.jpg)
 
-### 6.2 User Persona
+### 7.2 User Persona
 
 ![carlaramirezuserpersona-01](https://user-images.githubusercontent.com/38932099/44949469-871aad80-adf7-11e8-989e-1783bccd532c.png)
-### 6.3 Customer Journey Map
+### 7.3 Customer Journey Map
 
 ![mapuser](https://user-images.githubusercontent.com/38932099/44319835-ee9e2980-a403-11e8-8093-1e06ddbf4e5c.png)
 
-## 7. Solución
+## 8. Solución
 
 *Luego de haber entendido la problemática del negocio y las usuarias a través de las entrevistas y a través del benchmark, lo que planteamos es transformar digitalmente su tienda a través de una herramienta que automatice su proceso de venta, teniendo presente los objetivos del cliente: formar una comunidad de madres que estén informadas y capacitadas para llevar acabo una crianza con apego. Nosotras hemos optado por mantener los colores de su blog inicial y de su logo, además de agregar un menú con las diferentes categorías de productos que tienen, añadir una opción de favoritos, el registro para que el cliente tenga una data de todos sus usuarios y así realizar sus actividades en sus talleres y las opciones de pago: efectivo o tarjeta. Se elaboró el siguiente user flow para entenderlo mejor:*
 
 <p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-marketplace/blob/master/img/solución-userflow.png" alt="solución-userflow" border="0"></p>
 
-### 7.1 Definición del producto
+### 8.1 Definición del producto
 
 ***Principales usuarios de producto***
 
@@ -143,28 +146,28 @@ Entre las conclusiones, podemos entender que:
 
 *La tienda onlinde de LCT organiza la información y hace que se puede encontrar el producto de una manera más rápida teniendo la posibilidad de comparar precios y características con otros productos similares, si el usuario vuelve a comprar pues tendrá lo opción de ver sus productos favoritos guardados registrándose. Por otro lado, podrá encontrar información de los talleres dependiendo del producto que elija.*
 
-###  7.2 Distribución y entrega de contenido
+###  8.2 Distribución y entrega de contenido
 
-***7.2.1 Árbol de contenido***
+**8.2.1 Árbol de contenido**
 
 *Para organizar la información se trabajó a través de un árbol de contenido que se mostrará en el menú de la aplicación web así como en un filtro desplegable en la tienda online.*
 
 <p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-marketplace/blob/master/img/árbol-de-contenido.png" alt="árbol-de-contenido" border="0"></p>
 
-## 8. Prototyping y Testing
+## 9. Prototyping y Testing
 
-### 8.1 Sketch
+### 9.1 Sketch
 
 *Inicialmente se realizaron sketches para maquetar nuestro market place, tomando en cuenta los objetivos del cliente como mantener la información de sus talleres y ordenar los productos disponibles. Durante el testeo con las usuarias, nos mencionaron que les gustaría mucho que haya una opción de favoritos para no tener que buscar nuevamente los productos que siempre compraban, además necesitaban tener el filtro de las categorías en el menú de la app y en la tienda, nos pidieron que pongamos menos información en la descripción del producto ya que se veía muy amontonado.*  
 
 ![prototipobajafidelidad](https://user-images.githubusercontent.com/38932099/44949623-052c8380-adfb-11e8-913a-99f247ba426a.jpg)
 ![prototipobajafidelidad2](https://user-images.githubusercontent.com/38932099/44949651-576da480-adfb-11e8-8dd2-ef8ee96840d2.jpg)
 
-### 8.2 Prototipo de Alta Fidelidad
+### 9.2 Prototipo de Alta Fidelidad
 
 [Link a prototipo de alta fidelidad](https://www.figma.com/file/RYNA94o2vFZ9oW5ssteMTVwk/Untitled?node-id=0%3A1)
 
-*Luego definimos el prototipo de alta fidelidad, las conclusiones del testing fueron:*
+*Luego definimos el prototipo de alta fidelidad utilizando a Figma como herramienta, las conclusiones del testing fueron:*
 
 * Los colores iniciales eran pasteles, por lo cual las usuarias mostraron que no estaban muy identificadas con el clásico color de niños, por esto decidimos mantener los colores principales de su logo, donde destacan el negro, fucsia y turquesa, luego del resultado las usuarias aceptaron con gusto cómo se veía el interface.
 
@@ -174,8 +177,8 @@ Entre las conclusiones, podemos entender que:
 
 * Por último, mencionaron que podríamos relacionar los productos que se están comprando con algunos talleres que se iban a realizar, donde se podría sacar provecho al aprender cómo usar lo que se compra en LCT.
 
-### 8.3 Prototipo Interactivo
+### 9.3 Prototipo Interactivo
 
 [Link a prototipo interactivo](https://www.figma.com/proto/RYNA94o2vFZ9oW5ssteMTVwk/Untitled?node-id=0%3A1&scaling=scale-down)
 
-## 9. Conclusiones
+## 10. Conclusiones
