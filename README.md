@@ -23,12 +23,12 @@
 
 ## 2. Objetivos del proyecto
 
-
+*Nosotras hemos optado por participar en la transformación digital de LCT a través del análisis de su atención de ventas a través de su cuenta de [facebook](https://www.facebook.com/lacasadelatata/) y poder brindarle una solución acorde a sus objetivos de negocio*
 
 ### 2.1 La Casa de La Tata
 
 *La casa de La Tata es un showroom con marcas independientes que ha ido creciendo rápidamente en su corto tiempo, esto se debe al amor y pasión de su creadora Nadiana Altuve, una mamá con ganas de presentar no solo algo nuevo si no también de enseñar a mamis especialmente primerizas temas como la lactancia, crianza con apego, etc. y sus ganas también de que todo esto se complemente con la ayuda social.*
-*La casa de La Tata ha venido acogiendo marcas de ropa o servicios de padres que quieren conciliar el trabajo con la crianza de sus hijos o de personas que promueven la crianza natural y con apego mediante sus productos. Está orientado a promover la crianza natural y el uso de productos sustentables por el bien general.*
+*Está ubicada en la Av. 28 De Julio 328 en Miraflores, La casa de la Tata ha venido acogiendo marcas de ropa o servicios de padres que quieren conciliar el trabajo con la crianza de sus hijos o de personas que promueven la crianza natural y con apego mediante sus productos. Está orientado a promover la crianza natural y el uso de productos sustentables por el bien general.*
 
 *Nadiana explica, que los 3 pilares de La casa de la Tata son:*
 
@@ -38,13 +38,15 @@
 
 3. **Ayuda Social**: Cada showroom buscará apoyar a alguna institución de ayuda social.
 
-*En La Casa de la Tata, además de que las mamás pueden encontrar diversos productos para bebés e infantes, también encontrarán talleres “Criando en tribu” por eso no solo es un espacio tipo tienda, sino que se convierte en un punto de encuentro donde se pueden compartir diferentes experiencias de crianza. Por otro lado, el espacio tiene una ambiente para niños para que mientras las madres compren, ellos no se aburran, también cuenta con un lactario (puede ver las fotos de la visita [aquí](https://drive.google.com/open?id=1R5ZQxQJoN9WrqB8kfU8giY-n6VVjVlW8) ).*
+***En La Casa de la Tata, además de que las mamás pueden encontrar diversos productos para bebés e infantes, también encontrarán talleres “Criando en tribu” por eso no solo es un espacio tipo tienda, sino que se convierte en un punto de encuentro donde se pueden compartir diferentes experiencias de crianza. Por otro lado, el espacio tiene una ambiente para niños para que mientras las madres compren, ellos no se aburran, también cuenta con un lactario (puede ver las fotos de la visita [aquí](https://drive.google.com/open?id=1R5ZQxQJoN9WrqB8kfU8giY-n6VVjVlW8) ).***
 
 <p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-marketplace/blob/master/img/talleres.png" alt="talleres" border="0"></p>
 
 *Recientemente ha lanzado el servicio de lista de bebé para baby shower, en el que las embarazadas pueden elegir sus futuros regalos y obtener descuentos en paquetes de fotografías, tés de lactancia, juguetes orgánicos, ropa y más.* 
 
 <p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-marketplace/blob/master/img/babyshower.png" alt="babyshower" border="0"></p>
+
+*Puede entrar al blog [aquí](https://lacasadelatata.com/)*
 
 ### 2.2 Objetivo del negocio
 
@@ -83,6 +85,12 @@ Fecha: 20 de agosto del 2018,
 Hora: 5:30pm
 
 En las [entrevistas con el cliente](https://drive.google.com/open?id=1WsnzidbYqRuE4lZwo_HiFKRo-Dqfj3Xz), se pudo rescatar la siguiente información:
+
+
+
+
+
+
 
 
 ### 6.2 Conclusiones de entrevista con usuarias
