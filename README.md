@@ -46,7 +46,7 @@
 
 <p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-marketplace/blob/master/img/babyshower.png" alt="babyshower" border="0"></p>
 
-_Objetivo del negocio_
+***Objetivo del negocio***
 
 *"Veo una casa con toda esa energía linda que se siente cuando uno es comunidad, cuando todos somos un uno. Una casa con espacio para educación, para talleres, para jugar, para las marcas, los servicios y para ayuda social. Una casa de crianza natural y con apego."* - Nadiana Altuve, dueña de LCT.-
 
@@ -56,7 +56,10 @@ _Objetivo del negocio_
 * La tienda está aperturando nuevos locales, ampliando así su mercado que no le da a basto en su primer local de Miraflores.
 * Los compradores no tienen muy claro otros usos que le pueden dar a los productos que compran.
 * Los compradores no se sienten fidelizados porque después de las compras que hicieron no recibieron más comunicación acerca de nuevos productos que habían llegado a tienda.
-* Los compradores no saben de la existencia de los talleres, por este motivo no pueden aprovecharlos para saber 
+* Los compradores no saben de la existencia de los talleres, por este motivo no pueden aprovecharlos.
+
+<p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-marketplace/blob/master/img/actual-userflow.png" alt="actual-userflow" border="0"></p>
+
 
 ## 4. Presupuesto
 
@@ -100,6 +103,8 @@ Entre las conclusiones, podemos entender que:
 ## 7. Solución
 
 *Luego de haber entendido la problemática del negocio y las usuarias a través de las entrevistas y a través del benchmark, lo que planteamos es transformar digitalmente su tienda, teniendo presente los objetivos del cliente: formar una comunidad de madres que estén informadas y capacitadas para llevar acabo una crianza con apego. Nosotras hemos optado por mantener los colores de su blog inicial y de su logo, además de agregar un menú con las diferentes categorías de productos que tienen, añadir una opción de favoritos, el registro para que el cliente tenga una data de todos sus usuarios y así realizar sus actividades en sus talleres y las opciones de pago: efectivo o tarjeta.*
+
+<p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-marketplace/blob/master/img/solución-userflow.png" alt="solución-userflow" border="0"></p>
 
 ### 7.1 Definición del producto
 
@@ -145,11 +150,27 @@ Entre las conclusiones, podemos entender que:
 
 ### 8.1 Sketch
 
+*Inicialmente se realizaron sketches para maquetar nuestro market place, tomando en cuenta los objetivos del cliente como mantener la información de sus talleres y ordenar los productos disponibles. Durante el testeo con las usuarias, nos mencionaron que les gustaría mucho que haya una opción de favoritos para no tener que buscar nuevamente los productos que siempre compraban, además necesitaban tener el filtro de las categorías en el menú de la app y en la tienda, nos pidieron que pongamos menos información en la descripción del producto ya que se veía muy amontonado.*  
+
 ![prototipobajafidelidad](https://user-images.githubusercontent.com/38932099/44949623-052c8380-adfb-11e8-913a-99f247ba426a.jpg)
 ![prototipobajafidelidad2](https://user-images.githubusercontent.com/38932099/44949651-576da480-adfb-11e8-8dd2-ef8ee96840d2.jpg)
 
 ### 8.2 Prototipo de Alta Fidelidad
 
+[Link a prototipo de alta fidelidad](https://www.figma.com/file/RYNA94o2vFZ9oW5ssteMTVwk/Untitled?node-id=0%3A1)
+
+*Luego definimos el prototipo de alta fidelidad, las conclusiones del testing fueron:*
+
+* Los colores iniciales eran pasteles, por lo cual las usuarias mostraron que no estaban muy identificadas con el clásico color de niños, por esto decidimos mantener los colores principales de su logo, donde destacan el negro, fucsia y turquesa, luego del resultado las usuarias aceptaron con gusto cómo se veía el interface.
+
+* Respecto a las fotos, también tuvieron una observación debido a que las imágenes mostraban mamás clásicas dando de lactar (por los productos de lactancia) y nos recomendaron que pongamos imágenes de mamás modernas. 
+
+* Así mismo, el orden de las opciones de "talleres" y "showroom", tuvimos que diferenciarlas para que se pueda obtener respuesta en la opción de "showrrom" y entren a comprar los productos.
+
+* Por último, mencionaron que podríamos relacionar los productos que se están comprando con algunos talleres que se iban a realizar, donde se podría sacar provecho al aprender cómo usar lo que se compra en LCT.
+
 ### 8.3 Prototipo Interactivo
+
+[Link a prototipo interactivo](https://www.figma.com/proto/RYNA94o2vFZ9oW5ssteMTVwk/Untitled?node-id=0%3A1&scaling=scale-down)
 
 ## 9. Conclusiones
