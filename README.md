@@ -168,8 +168,9 @@ Entre las conclusiones, podemos entender que:
 
 *Inicialmente se realizaron sketches para maquetar nuestro market place, tomando en cuenta los objetivos del cliente como mantener la información de sus talleres y ordenar los productos disponibles. Durante el testeo con las usuarias, nos mencionaron que les gustaría mucho que haya una opción de favoritos para no tener que buscar nuevamente los productos que siempre compraban, además necesitaban tener el filtro de las categorías en el menú de la app y en la tienda, nos pidieron que pongamos menos información en la descripción del producto ya que se veía muy amontonado.*  
 
-![prototipobajafidelidad](https://user-images.githubusercontent.com/38932099/44949623-052c8380-adfb-11e8-913a-99f247ba426a.jpg)
-![prototipobajafidelidad2](https://user-images.githubusercontent.com/38932099/44949651-576da480-adfb-11e8-8dd2-ef8ee96840d2.jpg)
+![prototipodebajafidelidad](https://user-images.githubusercontent.com/38932099/44990554-f824a700-af56-11e8-866e-5f3eb9ec3588.jpg)
+![prototipodebajafidelidad2](https://user-images.githubusercontent.com/38932099/44990562-fce95b00-af56-11e8-8d1b-6c53de8bba13.jpg)
+
 
 ### 9.2 Prototipo de Alta Fidelidad
 
