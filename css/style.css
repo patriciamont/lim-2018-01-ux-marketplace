@@ -139,7 +139,7 @@ position: relative;
 width: 259px;
 height: 104px;
 left: 48px;
-top: 3px;
+top: 300px;
 font-family: 'Roboto Condensed', sans-serif; 
 
  
@@ -147,7 +147,7 @@ font-family: 'Roboto Condensed', sans-serif;
 #filters select{
     position: relative;
     float: left;
-     min-width: 200px;
+    min-width: 200px;
     min-height: 30px;
 
     color: #777;
