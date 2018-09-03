@@ -25,20 +25,20 @@
 
 
 
-## 2.1 La Casa de La Tata
+### 2.1 La Casa de La Tata
 
 *La casa de La Tata es un showroom con marcas independientes que ha ido creciendo rápidamente en su corto tiempo, esto se debe al amor y pasión de su creadora Nadiana Altuve, una mamá con ganas de presentar no solo algo nuevo si no también de enseñar a mamis especialmente primerizas temas como la lactancia, crianza con apego, etc. y sus ganas también de que todo esto se complemente con la ayuda social.*
 *La casa de La Tata ha venido acogiendo marcas de ropa o servicios de padres que quieren conciliar el trabajo con la crianza de sus hijos o de personas que promueven la crianza natural y con apego mediante sus productos. Está orientado a promover la crianza natural y el uso de productos sustentables por el bien general.*
 
 *Nadiana explica, que los 3 pilares de La casa de la Tata son:*
 
-1. Comunidad:  Apoyar a pequeñas marcas independientes, principalmente a mamás que han decidido emprender un negocio desde casa para poder estar con sus hijos.
+1. **Comunidad**:  Apoyar a pequeñas marcas independientes, principalmente a mamás que han decidido emprender un negocio desde casa para poder estar con sus hijos.
 
-2. Educación:  Proponer talleres de lactancia, porteo, colecho, crianza, salud, ecología, etc. Ofreciendo una asesoría adecuada para que las mamis se puedan reconectar con su instinto y resolver sus dudas.
+2. **Educación**:  Proponer talleres de lactancia, porteo, colecho, crianza, salud, ecología, etc. Ofreciendo una asesoría adecuada para que las mamis se puedan reconectar con su instinto y resolver sus dudas.
 
-3. Ayuda Social: Cada showroom buscará apoyar a alguna institución de ayuda social.
+3. **Ayuda Social**: Cada showroom buscará apoyar a alguna institución de ayuda social.
 
-*En La Casa de la Tata, además de que las mamás pueden encontrar diversos productos para bebés e infantes, también encontrarán talleres “Criando en tribu” por eso no solo es un espacio tipo tienda, sino que se convierte en un punto de encuentro donde se pueden compartir diferentes experiencias de crianza. Por otro lado, el espacio tiene una ambiente para niños para que mientras las madres compren, ellos no se aburran, también cuenta con un lactario.*
+*En La Casa de la Tata, además de que las mamás pueden encontrar diversos productos para bebés e infantes, también encontrarán talleres “Criando en tribu” por eso no solo es un espacio tipo tienda, sino que se convierte en un punto de encuentro donde se pueden compartir diferentes experiencias de crianza. Por otro lado, el espacio tiene una ambiente para niños para que mientras las madres compren, ellos no se aburran, también cuenta con un lactario (puede ver las fotos de la visita [aquí](https://drive.google.com/open?id=1R5ZQxQJoN9WrqB8kfU8giY-n6VVjVlW8) ).*
 
 <p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-marketplace/blob/master/img/talleres.png" alt="talleres" border="0"></p>
 
@@ -46,17 +46,21 @@
 
 <p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-marketplace/blob/master/img/babyshower.png" alt="babyshower" border="0"></p>
 
-***Objetivo del negocio***
+**Objetivo del negocio**
 
 *"Veo una casa con toda esa energía linda que se siente cuando uno es comunidad, cuando todos somos un uno. Una casa con espacio para educación, para talleres, para jugar, para las marcas, los servicios y para ayuda social. Una casa de crianza natural y con apego."* - Nadiana Altuve, dueña de LCT.-
 
 ## 3. Problemas identificados
+
+*Realizamos una primera visita a la tienda el 17 de agosto del 2018 a las 10am y conversamos con las señoritas de atención, dentro de la información recopilada se puede entender que:*
 
 * Las ventas se limitan a la conexión de los trabajadores de atención al cliente vía Facebook y Messenger.
 * La tienda está aperturando nuevos locales, ampliando así su mercado que no le da a basto en su primer local de Miraflores.
 * Los compradores no tienen muy claro otros usos que le pueden dar a los productos que compran.
 * Los compradores no se sienten fidelizados porque después de las compras que hicieron no recibieron más comunicación acerca de nuevos productos que habían llegado a tienda.
 * Los compradores no saben de la existencia de los talleres, por este motivo no pueden aprovecharlos.
+
+*Para graficarlo y entenderlo mejor, elaboramos un user flow de las ventas atendidas por internet:*
 
 <p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-marketplace/blob/master/img/actual-userflow.png" alt="actual-userflow" border="0"></p>
 
@@ -72,7 +76,7 @@ Puede consultar la guía completa de preguntas elaboradas para clientes y usuari
 
 ### 5.1 Conclusiones de entrevista con el cliente
 
-Fecha: 20 de agosto del 2018
+Fecha: 20 de agosto del 2018, 
 Hora: 5:30pm
 
 En las [entrevistas con el cliente](https://drive.google.com/open?id=1WsnzidbYqRuE4lZwo_HiFKRo-Dqfj3Xz), se pudo rescatar la siguiente información:
@@ -91,18 +95,19 @@ Entre las conclusiones, podemos entender que:
 
 ## 6. Definición del público objetivo
 
-## 6.1 Proto-Persona
+### 6.1 Proto-Persona
 ![protopers-01](https://user-images.githubusercontent.com/38932099/44377579-14d6ce80-a4c3-11e8-81aa-677774b56586.jpg)
 
 ### 6.2 User Persona
-![carlaramirezuserpersona-01](https://user-images.githubusercontent.com/38932099/44949469-871aad80-adf7-11e8-989e-1783bccd532c.png)
 
+![carlaramirezuserpersona-01](https://user-images.githubusercontent.com/38932099/44949469-871aad80-adf7-11e8-989e-1783bccd532c.png)
 ### 6.3 Customer Journey Map
+
 ![mapuser](https://user-images.githubusercontent.com/38932099/44319835-ee9e2980-a403-11e8-8093-1e06ddbf4e5c.png)
 
 ## 7. Solución
 
-*Luego de haber entendido la problemática del negocio y las usuarias a través de las entrevistas y a través del benchmark, lo que planteamos es transformar digitalmente su tienda, teniendo presente los objetivos del cliente: formar una comunidad de madres que estén informadas y capacitadas para llevar acabo una crianza con apego. Nosotras hemos optado por mantener los colores de su blog inicial y de su logo, además de agregar un menú con las diferentes categorías de productos que tienen, añadir una opción de favoritos, el registro para que el cliente tenga una data de todos sus usuarios y así realizar sus actividades en sus talleres y las opciones de pago: efectivo o tarjeta.*
+*Luego de haber entendido la problemática del negocio y las usuarias a través de las entrevistas y a través del benchmark, lo que planteamos es transformar digitalmente su tienda a través de una herramienta que automatice su proceso de venta, teniendo presente los objetivos del cliente: formar una comunidad de madres que estén informadas y capacitadas para llevar acabo una crianza con apego. Nosotras hemos optado por mantener los colores de su blog inicial y de su logo, además de agregar un menú con las diferentes categorías de productos que tienen, añadir una opción de favoritos, el registro para que el cliente tenga una data de todos sus usuarios y así realizar sus actividades en sus talleres y las opciones de pago: efectivo o tarjeta. Se elaboró el siguiente user flow para entenderlo mejor:*
 
 <p align = "center"><img src="https://github.com/AilimMoscoso/lim-2018-01-ux-marketplace/blob/master/img/solución-userflow.png" alt="solución-userflow" border="0"></p>
 
