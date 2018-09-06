@@ -195,7 +195,11 @@ Entre las conclusiones, podemos entender que:
 
 [Link a prototipo interactivo](https://www.figma.com/proto/RYNA94o2vFZ9oW5ssteMTVwk/Untitled?node-id=0%3A1&scaling=scale-down)
 
-### 9.4 Demo
+### 9.4 Diseño para desarrolladores
+
+[Link de Zeplin](https://zpl.io/V4l5wM8)
+
+### 9.5 Demo
 
 [Link a video demostrativo](https://drive.google.com/open?id=1D2jF-whgcpDseRfjAHrbALwyfF-D0U_aNwOten7t_xI)
 
